@@ -6,7 +6,7 @@ This repository contains a simple, browser-based Snake game implemented in TypeS
 
 ## Demo
 
-lettername2.vercel.app
+[lettername2.vercel.app](https://lettername2.vercel.app)
 
 ## Features
 - Classic Snake gameplay
